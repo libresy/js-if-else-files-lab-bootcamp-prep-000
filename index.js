@@ -2,7 +2,8 @@ var name = "Susan"
 var height = "70"
 
 if (name === "Susan"){
-    console.log("Susan")
+    console.log("name")
+    console.log("height")
 }
 
 
